@@ -1,0 +1,19 @@
+---
+layout: post
+title: 离散数据生成模型（Generative models for discrete data）
+date: 2016-03-26
+categories: jekyll update
+---
+1. 引言
+
+2. 贝叶斯概念学习
+
+- 可能性
+
+- 先验
+
+- 后验
+
+- 后验预测分布
+
+- 更加复杂的先验
